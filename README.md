@@ -1,5 +1,7 @@
 # Raindrops
 
+Please note: I wrote the raindrops.cpp and raindrops.h files. I did not write raindrops_test.cpp file. Thanks, Walt
+
 Welcome to Raindrops on Exercism's C++ Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
